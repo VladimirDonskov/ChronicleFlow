@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChronicleFlow.Domain\ChronicleFlow.Domain.csproj" />
+    <ProjectReference Include="..\ChronicleFlow.Application\ChronicleFlow.Application.csproj" />
+    <ProjectReference Include="..\ChronicleFlow.Infrastructure\ChronicleFlow.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

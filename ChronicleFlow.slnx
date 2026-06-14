@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ChronicleFlow.Api/ChronicleFlow.Api.csproj" />
+    <Project Path="src/ChronicleFlow.Application/ChronicleFlow.Application.csproj" />
+    <Project Path="src/ChronicleFlow.Domain/ChronicleFlow.Domain.csproj" />
+    <Project Path="src/ChronicleFlow.Infrastructure/ChronicleFlow.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ChronicleFlow.Tests/ChronicleFlow.Tests.csproj" />
+  </Folder>
+</Solution>
